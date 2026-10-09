@@ -1,5 +1,3 @@
-package com.dinesh;
-
 public class Typecasting {
     public static void main(String[] args) { // type casting
 //        System.out.println(num);

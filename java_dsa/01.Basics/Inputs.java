@@ -1,7 +1,4 @@
-package com.dinesh;
-
 import java.util.Scanner;
-
 public class Inputs {
     static void main(String[] args) {
         Scanner input = new Scanner(System.in);

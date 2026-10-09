@@ -1,6 +1,6 @@
-package com.dinesh;
 
 public class Primitives {
+
     static void main() {
         System.out.println("Primitives");
 //      int rollno = 54;
