@@ -2,7 +2,7 @@
 public class Primitives {
 
     static void main() {
-        System.out.println("Primitives");
+        System.out.println("About Primitives");
 //      int rollno = 54;
 //      char letter = 'r';
 //      float marks = 98.67f;
