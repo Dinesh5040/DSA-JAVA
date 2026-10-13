@@ -1,5 +1,3 @@
-package com.dinesh;
-
 import java.util.Scanner;
 
 public class HCF_LCM {
